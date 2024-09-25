@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.unity.assetbundlebrowser": "1.7.0", 
     "com.code-philosophy.luban": "https://github.com/focus-creative-games/luban_unity.git",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.cinemachine": "2.8.9",

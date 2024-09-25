@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <ResourceCollection>
+    <Resources>
+      <Resource Name="DataTables/character_tbcharacter" LoadType="0" Packed="True" />
+      <Resource Name="DataTables/item_tbitem" LoadType="0" Packed="True" />
+      <Resource Name="DataTables/scene_tbscene" LoadType="0" Packed="True" />
+      <Resource Name="Scene" LoadType="0" Packed="False" />
+      <Resource Name="UI" LoadType="0" Packed="False" />
+      <Resource Name="xml" LoadType="0" Packed="False" />
+    </Resources>
+    <Assets>
+      <Asset Guid="02b58f8e34aeeb44da0fc9a98ad9bc68" ResourceName="DataTables/character_tbcharacter" />
+      <Asset Guid="17869aa9123d68e419b535687b315de1" ResourceName="DataTables/item_tbitem" />
+      <Asset Guid="334a1848c25ea424b95969d863cffba9" ResourceName="Scene" />
+      <Asset Guid="383e5a451fa8c7444b027adef7d67cbb" ResourceName="UI" />
+      <Asset Guid="5461b0fc87a2ab04fbcfd898d18f6107" ResourceName="xml" />
+      <Asset Guid="767edbe03829d044fb0087a84581201d" ResourceName="Scene" />
+      <Asset Guid="b427e6d7bf83d904a9e763165fe03c32" ResourceName="DataTables/scene_tbscene" />
+      <Asset Guid="b44bfac45a6cb7f448eb320ecc030a9c" ResourceName="xml" />
+      <Asset Guid="bdb459eb89051ad49a70fba29cf6a110" ResourceName="xml" />
+      <Asset Guid="da107ae9236cc3142b53df7a86b196f5" ResourceName="Scene" />
+    </Assets>
+  </ResourceCollection>
+</UnityGameFramework>

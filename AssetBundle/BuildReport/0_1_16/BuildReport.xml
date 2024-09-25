@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<UnityGameFramework>
+  <BuildReport>
+    <Summary>
+      <ProductName>Act_demo</ProductName>
+      <CompanyName>DefaultCompany</CompanyName>
+      <GameIdentifier>com.DefaultCompany.Act-demo</GameIdentifier>
+      <GameFrameworkVersion>2021.05.31</GameFrameworkVersion>
+      <UnityVersion>2021.3.34f1c1</UnityVersion>
+      <ApplicableGameVersion>0.1</ApplicableGameVersion>
+      <InternalResourceVersion>16</InternalResourceVersion>
+      <Platforms>Windows</Platforms>
+      <AssetBundleCompression>LZ4</AssetBundleCompression>
+      <CompressionHelperTypeName>UnityGameFramework.Runtime.DefaultCompressionHelper</CompressionHelperTypeName>
+      <AdditionalCompressionSelected>True</AdditionalCompressionSelected>
+      <ForceRebuildAssetBundleSelected>False</ForceRebuildAssetBundleSelected>
+      <BuildEventHandlerTypeName>StarForce.Editor.StarForceBuildEventHandler</BuildEventHandlerTypeName>
+      <OutputDirectory>D:/File/Unity Project/Act_demo/AssetBundle</OutputDirectory>
+      <BuildAssetBundleOptions>DeterministicAssetBundle, ChunkBasedCompression</BuildAssetBundleOptions>
+    </Summary>
+    <Resources Count="6">
+      <Resource Name="DataTables/character_tbcharacter" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="1">
+          <Asset Guid="02b58f8e34aeeb44da0fc9a98ad9bc68" Name="Assets/Act_demo/DataTables/character_tbcharacter.json" Length="220" HashCode="-2095102071" />
+        </Assets>
+        <Codes>
+          <Windows Length="1308" HashCode="725070264" CompressedLength="1097" CompressedHashCode="-230302275" />
+        </Codes>
+      </Resource>
+      <Resource Name="DataTables/item_tbitem" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="1">
+          <Asset Guid="17869aa9123d68e419b535687b315de1" Name="Assets/Act_demo/DataTables/item_tbitem.json" Length="4795" HashCode="-612846551" />
+        </Assets>
+        <Codes>
+          <Windows Length="1861" HashCode="1261156431" CompressedLength="1553" CompressedHashCode="86555053" />
+        </Codes>
+      </Resource>
+      <Resource Name="DataTables/scene_tbscene" Extension="dat" LoadType="0" Packed="True">
+        <Assets Count="1">
+          <Asset Guid="b427e6d7bf83d904a9e763165fe03c32" Name="Assets/Act_demo/DataTables/scene_tbscene.json" Length="156" HashCode="-791448353" />
+        </Assets>
+        <Codes>
+          <Windows Length="1282" HashCode="-1511015985" CompressedLength="1074" CompressedHashCode="1371034603" />
+        </Codes>
+      </Resource>
+      <Resource Name="Scene" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="3">
+          <Asset Guid="334a1848c25ea424b95969d863cffba9" Name="Assets/Act_demo/Scenes/Menu.unity" Length="4378" HashCode="-1153177977" />
+          <Asset Guid="767edbe03829d044fb0087a84581201d" Name="Assets/Act_demo/Scenes/Map_1.unity" Length="565858" HashCode="-229016519" />
+          <Asset Guid="da107ae9236cc3142b53df7a86b196f5" Name="Assets/Act_demo/Scenes/GameMain.unity" Length="45208" HashCode="1101996812" />
+        </Assets>
+        <Codes>
+          <Windows Length="46815609" HashCode="435778370" CompressedLength="41370411" CompressedHashCode="1228501417" />
+        </Codes>
+      </Resource>
+      <Resource Name="UI" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="1">
+          <Asset Guid="383e5a451fa8c7444b027adef7d67cbb" Name="Assets/Act_demo/UI/UIForms/Menu.prefab" Length="23805" HashCode="-71363761" />
+        </Assets>
+        <Codes>
+          <Windows Length="11518" HashCode="-901959359" CompressedLength="9485" CompressedHashCode="1080032847" />
+        </Codes>
+      </Resource>
+      <Resource Name="xml" Extension="dat" LoadType="0" Packed="False">
+        <Assets Count="3">
+          <Asset Guid="5461b0fc87a2ab04fbcfd898d18f6107" Name="Assets/Act_demo/Configs/ResourceBuilder.xml" Length="942" HashCode="1353479587" />
+          <Asset Guid="b44bfac45a6cb7f448eb320ecc030a9c" Name="Assets/Act_demo/Configs/ResourceCollection.xml" Length="1454" HashCode="1343054216" />
+          <Asset Guid="bdb459eb89051ad49a70fba29cf6a110" Name="Assets/Act_demo/Configs/ResourceEditor.xml" Length="836" HashCode="-1697862437" />
+        </Assets>
+        <Codes>
+          <Windows Length="2612" HashCode="-1622233502" CompressedLength="2178" CompressedHashCode="-1259230063" />
+        </Codes>
+      </Resource>
+    </Resources>
+  </BuildReport>
+</UnityGameFramework>

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 10001,
+    "name": "火车王",
+    "asset_name": "TrainKing",
+    "icon": "",
+    "cost": 5,
+    "attack": 6,
+    "hp": 2,
+    "star": 2,
+    "des": "冲锋，战吼：为你的对手召唤两条1/1的雏龙。",
+    "AssociatedMinoinId": 20001
+  },
+  {
+    "id": 10002,
+    "name": "鱼人猎潮者",
+    "asset_name": "FishPeopleHuntTide",
+    "icon": "",
+    "cost": 2,
+    "attack": 2,
+    "hp": 1,
+    "star": 1,
+    "des": "战吼；召唤一个1/1的鱼人斥候。",
+    "AssociatedMinoinId": 20002
+  },
+  {
+    "id": 10003,
+    "name": "森金持盾卫士",
+    "asset_name": "SenjinShieldBearer",
+    "icon": "",
+    "cost": 4,
+    "attack": 3,
+    "hp": 5,
+    "star": 2,
+    "des": "嘲讽",
+    "AssociatedMinoinId": 20003
+  },
+  {
+    "id": 10004,
+    "name": "小钻风",
+    "asset_name": "xiaozuanfeng",
+    "icon": "",
+    "cost": 2,
+    "attack": 1,
+    "hp": 2,
+    "star": 1,
+    "des": "大王叫我来巡山",
+    "AssociatedMinoinId": 20004
+  },
+  {
+    "id": 10005,
+    "name": "七七",
+    "asset_name": "qiqi",
+    "icon": "",
+    "cost": 3,
+    "attack": 3,
+    "hp": 3,
+    "star": 1,
+    "des": "我叫僵尸,是个七七",
+    "AssociatedMinoinId": 20005
+  },
+  {
+    "id": 10006,
+    "name": "梁志超",
+    "asset_name": "LiangZhiChao",
+    "icon": "",
+    "cost": 1,
+    "attack": 1,
+    "hp": 2,
+    "star": 1,
+    "des": "我是梁志超他奶奶",
+    "AssociatedMinoinId": 20006
+  }
+]

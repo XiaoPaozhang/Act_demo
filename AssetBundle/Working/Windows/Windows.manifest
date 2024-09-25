@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 999880513
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: datatables/character_tbcharacter
+      Dependencies: {}
+    Info_1:
+      Name: datatables/item_tbitem
+      Dependencies: {}
+    Info_2:
+      Name: datatables/scene_tbscene
+      Dependencies: {}
+    Info_3:
+      Name: scene
+      Dependencies: {}
+    Info_4:
+      Name: ui
+      Dependencies: {}
+    Info_5:
+      Name: xml
+      Dependencies: {}

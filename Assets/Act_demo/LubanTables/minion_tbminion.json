@@ -1,0 +1,68 @@
+[
+  {
+    "id": 20001,
+    "name": "火车王",
+    "asset_name": "TrainKing",
+    "icon": "",
+    "cost": 5,
+    "attack": 6,
+    "hp": 2,
+    "star": 2,
+    "AssociatedCardId": 10001
+  },
+  {
+    "id": 20002,
+    "name": "鱼人猎潮者",
+    "asset_name": "FishPeopleHuntTide",
+    "icon": "",
+    "cost": 2,
+    "attack": 2,
+    "hp": 1,
+    "star": 1,
+    "AssociatedCardId": 10002
+  },
+  {
+    "id": 20003,
+    "name": "森金持盾卫士",
+    "asset_name": "SenjinShieldBearer",
+    "icon": "",
+    "cost": 4,
+    "attack": 3,
+    "hp": 5,
+    "star": 2,
+    "AssociatedCardId": 10003
+  },
+  {
+    "id": 20004,
+    "name": "小钻风",
+    "asset_name": "xiaozuanfeng",
+    "icon": "",
+    "cost": 2,
+    "attack": 1,
+    "hp": 2,
+    "star": 1,
+    "AssociatedCardId": 10004
+  },
+  {
+    "id": 20005,
+    "name": "七七",
+    "asset_name": "qiqi",
+    "icon": "",
+    "cost": 3,
+    "attack": 3,
+    "hp": 3,
+    "star": 1,
+    "AssociatedCardId": 10005
+  },
+  {
+    "id": 20006,
+    "name": "梁志超",
+    "asset_name": "LiangZhiChao",
+    "icon": "",
+    "cost": 1,
+    "attack": 1,
+    "hp": 2,
+    "star": 1,
+    "AssociatedCardId": 10006
+  }
+]

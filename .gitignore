@@ -76,7 +76,7 @@ crashlytics-build.properties
 
 # 忽略 Unity 的 ProjectSettings 中的 EditorSettings，允许团队成员各自设置不同的编辑器偏好
 # 如不同的命名空间前缀等个性化配置
-# ProjectSettings/EditorSettings.asset
+ProjectSettings/EditorSettings.asset
 
 # 忽略 litjson 插件的 meta 文件
 Assets/FrameCore/Plugin/LitJson/LitJSON.csproj.meta
